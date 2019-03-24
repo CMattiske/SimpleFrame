@@ -12,4 +12,9 @@ public class GamePlayer {
 	public String getName() {
 		return player.getName();
 	}
+
+	public void doAction(int par, String str) {
+		
+		
+	}
 }
